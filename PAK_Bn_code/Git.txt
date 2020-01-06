@@ -1,26 +1,2 @@
 git config --global user.name "Your Name Here"
 git config --global user.email "your_email@youremail.com"
-
-mkdir ~/MyProject
-cd ~/MyProject
-git init
-touch Readme.txt
-git status
-git add Readme.txt
-git commit -m ¡°Add Readme.txt¡±
-git remote add origin https://github.com/username/myproject.git
-git remote -v
-git push origin master
-
-git add --all
-
------------------------
-git clone https://github.com/jieunbyun/Myproject
-
-(add ...)
-
-git commit -m 'initial commit'
-git push origin master
-
-https://github.com/jieunbyun/ProgrammingQuestions_NSC.git
-C:/Users/JiEun/source/repos/AnalyzeWords
